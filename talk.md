@@ -12,6 +12,7 @@
 * Minecraft accelerometer
 * MRuby...
 * Midi Synth SonicPI
+* Little Bits Synth
 * Sonic Screw Driver
 
 # Blink
